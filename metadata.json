@@ -1,0 +1,8 @@
+{
+  "name": "Assistente Trader",
+  "description": "Seu assistente pessoal de trading com IA para Forex e Opções Binárias. Desenvolvido por Jovane Garci.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
